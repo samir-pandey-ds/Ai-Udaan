@@ -1,0 +1,5 @@
+.venv/
+Datasets/
+Screenshot/
+__pycache__/
+.ipynb_checkpoints/

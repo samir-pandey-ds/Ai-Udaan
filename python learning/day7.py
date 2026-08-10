@@ -1,0 +1,1 @@
+#pandas ---> data ko kura,read,analyze,organize garna use huncha
